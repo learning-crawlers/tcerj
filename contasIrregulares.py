@@ -1,3 +1,12 @@
+#######################################
+##  TCERJ Contas Irregulares
+##    Busca de contas irregulares no TCERJ com Número de Processo, Nome, CPF e Data do Trânsito em Julgado
+##
+##    Author: Alex Benincasa Santos 
+##    Mail: alexbenincasa@ymail.com
+##    2019
+#######################################
+
 import os
 import time
 from selenium import webdriver
