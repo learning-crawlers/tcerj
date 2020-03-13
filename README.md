@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/learning-crawlers/tcerj.svg)](http://hits.dwyl.com/learning-crawlers/tcerj)
+
 # tcerj
 
 Extração de dados com Selenium
