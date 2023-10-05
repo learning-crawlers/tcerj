@@ -1,26 +1,28 @@
 [![HitCount](http://hits.dwyl.com/learning-crawlers/tcerj.svg)](http://hits.dwyl.com/learning-crawlers/tcerj)
 
-# tcerj
+# TCERJ - Tribunal de Contas do Estado do Rio de Janeiro
 
 Extração de dados com Selenium
 
+Responsáveis com Contas Julgadas Irregulares - Pleito Eleitoral de 2022
+
 ## Instalação
 
-```
-pip install selenium
+```bash
+pip install selenium pandas
 ```
 
 ## Modo de usar
 
 Procure o path do python instalado no Windows:
 
-```
-/mnt/c/Users/alexb/AppData/Local/Programs/Python/Python37-32/python.exe contasIrregulares.py
+```bash
+python contasIrregulares.py
 ```
 
 ## Resultado
 
-Resultados encontrados 2678 / Atualizado em 02/10/2018 
+Resultados encontrados 1070 / Atualizado em 05/10/2023
 
 | Processo | Nome | Cpf | Data do Trânsito em Julgado | Data da Irregularidade |
 | --- | --- | --- | --- | --- |
